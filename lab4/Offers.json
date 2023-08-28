@@ -1,0 +1,18 @@
+{
+ "Offers": [
+  {
+   "Id": 1,
+   "Position": "developer",
+   "AgeRange": "20-35",
+   "Education": "high",
+   "EmpId": -1
+  },
+  {
+   "Id": 2,
+   "Position": "junior developer",
+   "AgeRange": "20-26",
+   "Education": "secondary",
+   "EmpId": -1
+  }
+ ]
+}

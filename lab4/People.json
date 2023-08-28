@@ -1,0 +1,16 @@
+{
+ "People": [
+  {
+   "Id": 1,
+   "Name": "John Smith",
+   "Age": 22,
+   "Education": "secondary"
+  },
+  {
+   "Id": 2,
+   "Name": "Anna Brown",
+   "Age": 37,
+   "Education": "higher"
+  }
+ ]
+}

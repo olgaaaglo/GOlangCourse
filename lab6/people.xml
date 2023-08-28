@@ -1,0 +1,24 @@
+<persons>
+    <person>
+        <id>1</id>
+        <firstName>Hedy</firstName>
+        <lastName>Lamarr</lastName>
+        <age>85</age>
+        <birth>1914-11-09T00:00:00Z</birth>
+        <death>2000-01-19T00:00:00Z</death>
+        <pesel>14110939927</pesel>
+        <creditcard>1234567891234563</creditcard>
+        <gender>95</gender>
+    </person>
+    <person>
+        <id>2</id>
+        <firstName>Bill</firstName>
+        <lastName>Gates</lastName>
+        <age>67</age>
+        <birth>1955-10-28T00:00:00Z</birth>
+        <death>0001-01-01T00:00:00Z</death>
+        <pesel>55102803710</pesel>
+        <creditcard>1234567898765437</creditcard>
+        <gender>67</gender>
+    </person>
+</persons>
